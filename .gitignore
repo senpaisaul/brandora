@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+.pytest_cache/
+
+# Environment
+.env
+.env.local
+
+# Backend artifacts
+backend/brandora.db
+backend/cache/
+
+# Node
+node_modules/
+.next/
+out/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db

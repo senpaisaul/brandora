@@ -1,0 +1,399 @@
+[
+  {
+    "inputUrl": "https://www.facebook.com/bellroy.official/",
+    "pageInfo": {
+      "adLibrarySystemStatus": {
+        "systemStatus": {
+          "status": "NO_KNOWN_ISSUES",
+          "activeIssues": [
+            {
+              "product": "Ad Library",
+              "status": "NO_KNOWN_ISSUES"
+            },
+            {
+              "product": "Ad Library Report",
+              "status": "NO_KNOWN_ISSUES"
+            },
+            {
+              "product": "Ad Library API",
+              "status": "NO_KNOWN_ISSUES"
+            },
+            {
+              "product": "Branded Content",
+              "status": "NO_KNOWN_ISSUES"
+            }
+          ]
+        }
+      },
+      "xfbAdLibraryIsCaptchaRequired": false,
+      "adLibraryPageInfo": {
+        "pageInfo": {
+          "relatedPages": [
+            {
+              "categoryName": "Product/service",
+              "country": "JP",
+              "countryName": "Japan",
+              "pageId": "493192394178353",
+              "pageName": "Bellroy",
+              "pageVerification": "NOT_VERIFIED",
+              "profileImageUri": "https://scontent-det1-1.xx.fbcdn.net/v/t39.30808-1/347779738_259184776516143_5412241743188797941_n.png?stp=cp0_dst-png_s56x56&_nc_cat=102&ccb=1-7&_nc_sid=f907e8&_nc_ohc=KhIGNIghZ94Q7kNvwH8fyJs&_nc_oc=AdpAyEZ7oiRBrfW78i7cKZcWk4gAbNFcGCgeGpTrlKjKRcgF6SC5Qq-vLXTYTk0Ldg4&_nc_zt=24&_nc_ht=scontent-det1-1.xx&_nc_gid=Q2LTPDoB9OnMMaV3wgP6Kw&oh=00_Af0tfqGg3Jtdrq8exP4nfOGPgtDo-8gsDfrX1dkUkSSpYg&oe=69F10B9F"
+            }
+          ],
+          "hasBlankAds": false,
+          "hiddenAds": 0,
+          "pageIsDeleted": false
+        }
+      },
+      "page": {
+        "name": "Bellroy",
+        "id": "113833593676"
+      },
+      "adLibraryUser": null
+    },
+    "pageID": "113833593676",
+    "adArchiveID": "1046004753909784",
+    "startDateFormatted": "2024-09-09T07:00:00.000Z",
+    "endDateFormatted": "2026-04-24T07:00:00.000Z",
+    "adArchiveId": "1046004753909784",
+    "collationCount": null,
+    "collationId": null,
+    "pageId": "113833593676",
+    "snapshot": {
+      "brandedContent": null,
+      "pageId": "113833593676",
+      "pageIsDeleted": false,
+      "pageProfileUri": "https://www.facebook.com/bellroy.official/",
+      "rootResharedPost": null,
+      "byline": null,
+      "disclaimerLabel": null,
+      "pageName": "Bellroy",
+      "pageProfilePictureUrl": "https://scontent.fric1-2.fna.fbcdn.net/v/t39.35426-6/452875321_889245449913558_3947600139527100013_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EK2KZLNsyhIQ7kNvwF2MHtY&_nc_oc=AdoynnKCOxKvrKwo0y6TlH4WUr41SCZM2gitW8sGJJ1KR6RrpcLyY_kCbHz9yBXXiOg&_nc_zt=14&_nc_ht=scontent.fric1-2.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af30EQgfoFjgTnx6tPraD8MO-tr_mYOiXzgObxbJ79WdGA&oe=69F11A78",
+      "event": null,
+      "caption": null,
+      "ctaText": "Shop now",
+      "cards": [],
+      "body": {
+        "text": "Your Bellroy is made from leathers that age gracefully, and develop unique character over time \u2013 the best leathers we can find. So that after years of your pocket-dives, hand-holds, note-passes and card-grabs, your Bellroy is like no other.\n\u2026\nAll Bellroy products are built to last, and backed by our three-year warranty.\n\u2026\nFeatured here: the Hide & Seek"
+      },
+      "ctaType": "SHOP_NOW",
+      "displayFormat": "IMAGE",
+      "linkDescription": null,
+      "linkUrl": "https://bellroy.com/products/category/mens-wallets",
+      "images": [
+        {
+          "imageCrops": [],
+          "originalImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/452956939_927236755875858_2927172654082017437_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rVkCKAbNlFEQ7kNvwH7xsEu&_nc_oc=AdrBcng-M9Mqy3-PMRzIwESDe_gaESbZL3n-s6gXtmvQWZx5FbtIpXsJCHj7RMBowFQ&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af1boJcdqprh_QhF293NLMeFEjfXJQRUKlYZ2Be7-Arl_g&oe=69F11683",
+          "resizedImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/452893551_781892377176404_7260375962269862839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t0d0SmZ_drUQ7kNvwHfSbCz&_nc_oc=AdrfPxgCcqwKrZrmkKswdzFR7lxlZHFHTz4BhLp-m4bqvTcurfQ-5IPDw2F21MswGvs&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af3gV_9loVy8nqWsXEuoX1_PJGtlaCoUJq4x3YfnTklwyQ&oe=69F125A1",
+          "watermarkedResizedImageUrl": ""
+        }
+      ],
+      "pageCategories": [
+        "Product/service"
+      ],
+      "pageLikeCount": 199147,
+      "title": null,
+      "videos": [],
+      "isReshared": false,
+      "extraLinks": [],
+      "extraTexts": [],
+      "extraImages": [],
+      "extraVideos": [],
+      "countryIsoCode": null,
+      "brazilTaxId": null,
+      "additionalInfo": null,
+      "ecCertificates": []
+    },
+    "isActive": true,
+    "hasUserReported": false,
+    "reportCount": null,
+    "menuItems": [],
+    "stateMediaRunLabel": null,
+    "pageIsDeleted": false,
+    "pageName": "Bellroy",
+    "impressionsWithIndex": {
+      "impressionsText": null,
+      "impressionsIndex": -1
+    },
+    "gatedType": "ELIGIBLE",
+    "categories": [
+      "UNKNOWN"
+    ],
+    "isAaaEligible": false,
+    "containsDigitalCreatedMedia": false,
+    "reachEstimate": null,
+    "currency": "",
+    "spend": null,
+    "endDate": 1777014000,
+    "publisherPlatform": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK"
+    ],
+    "startDate": 1725865200,
+    "containsSensitiveContent": false,
+    "totalActiveTime": null,
+    "regionalRegulationData": {
+      "finserv": {
+        "isDeemedFinserv": false,
+        "isLimitedDelivery": false
+      },
+      "twAntiScam": {
+        "isLimitedDelivery": false
+      }
+    },
+    "hideDataStatus": "NONE",
+    "fevInfo": null,
+    "adId": null,
+    "targetedOrReachedCountries": []
+  },
+  {
+    "inputUrl": "https://www.facebook.com/bellroy.official/",
+    "pageInfo": {
+      "adLibrarySystemStatus": {
+        "systemStatus": {
+          "status": "NO_KNOWN_ISSUES",
+          "activeIssues": [
+            {
+              "product": "Ad Library",
+              "status": "NO_KNOWN_ISSUES"
+            },
+            {
+              "product": "Ad Library Report",
+              "status": "NO_KNOWN_ISSUES"
+            },
+            {
+              "product": "Ad Library API",
+              "status": "NO_KNOWN_ISSUES"
+            },
+            {
+              "product": "Branded Content",
+              "status": "NO_KNOWN_ISSUES"
+            }
+          ]
+        }
+      },
+      "xfbAdLibraryIsCaptchaRequired": false,
+      "adLibraryPageInfo": {
+        "pageInfo": {
+          "relatedPages": [
+            {
+              "categoryName": "Product/service",
+              "country": "JP",
+              "countryName": "Japan",
+              "pageId": "493192394178353",
+              "pageName": "Bellroy",
+              "pageVerification": "NOT_VERIFIED",
+              "profileImageUri": "https://scontent-det1-1.xx.fbcdn.net/v/t39.30808-1/347779738_259184776516143_5412241743188797941_n.png?stp=cp0_dst-png_s56x56&_nc_cat=102&ccb=1-7&_nc_sid=f907e8&_nc_ohc=KhIGNIghZ94Q7kNvwH8fyJs&_nc_oc=AdpAyEZ7oiRBrfW78i7cKZcWk4gAbNFcGCgeGpTrlKjKRcgF6SC5Qq-vLXTYTk0Ldg4&_nc_zt=24&_nc_ht=scontent-det1-1.xx&_nc_gid=Q2LTPDoB9OnMMaV3wgP6Kw&oh=00_Af0tfqGg3Jtdrq8exP4nfOGPgtDo-8gsDfrX1dkUkSSpYg&oe=69F10B9F"
+            }
+          ],
+          "hasBlankAds": false,
+          "hiddenAds": 0,
+          "pageIsDeleted": false
+        }
+      },
+      "page": {
+        "name": "Bellroy",
+        "id": "113833593676"
+      },
+      "adLibraryUser": null
+    },
+    "pageID": "113833593676",
+    "adArchiveID": "1012504323828090",
+    "startDateFormatted": "2024-07-28T07:00:00.000Z",
+    "endDateFormatted": "2025-07-01T07:00:00.000Z",
+    "adArchiveId": "1012504323828090",
+    "collationCount": 1,
+    "collationId": "838545464279364",
+    "pageId": "113833593676",
+    "snapshot": {
+      "brandedContent": null,
+      "pageId": "113833593676",
+      "pageIsDeleted": false,
+      "pageProfileUri": "https://www.facebook.com/bellroy.official/",
+      "rootResharedPost": null,
+      "byline": "",
+      "disclaimerLabel": null,
+      "pageName": "Bellroy",
+      "pageProfilePictureUrl": "https://scontent.fric1-2.fna.fbcdn.net/v/t39.35426-6/447987976_1005705561068927_2293836532376922739_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AreO9r_F5QoQ7kNvwGmnFol&_nc_oc=Adra5NlCOul7eaNQ37EZ-2tcVqKsqkQyPq1vz6cQIVcsZ1m4bAfNTpOWk1XIEksXlYU&_nc_zt=14&_nc_ht=scontent.fric1-2.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af3k0-2PQqzfdkmNyq6YuvBLLczfi23-9fwoTPHz1vulew&oe=69F114DB",
+      "event": null,
+      "caption": "bellroy.com",
+      "ctaText": "Shop now",
+      "cards": [
+        {
+          "body": "Keys to cash, and phone to 'pods - our everyday accessories are here to keep your pockets slim, and day running smoothly.",
+          "ctaType": "SHOP_NOW",
+          "caption": "",
+          "linkDescription": "Bellroy Flip Case",
+          "linkUrl": "https://bellroy.com/products/flip-case?color=terracotta&material=leather",
+          "title": "The secret to slim",
+          "ctaText": "Shop Now",
+          "videoHdUrl": null,
+          "videoPreviewImageUrl": null,
+          "videoSdUrl": null,
+          "watermarkedVideoHdUrl": null,
+          "watermarkedVideoSdUrl": null,
+          "imageCrops": [],
+          "originalImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/448024742_998007378615931_8456152039398567114_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uRip53tnZmQQ7kNvwExWPxa&_nc_oc=Adp9jJd_baPQalb1Pe3VVsDCCP2zF13lQ2NpJmkH-5d6rOy1b5sYic7lAeciC5Zul2U&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af2UN-oLrBcgA_4MxYzhfCrvvcnrKDRPyeVAEseBDdRSJw&oe=69F12488",
+          "resizedImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/448158482_3480997125535720_8178946013347857260_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5eiAKfniLJUQ7kNvwE3oCV3&_nc_oc=AdoLHGVyxK2W1x36dih-h8Om0rJqB0S5t5pDrp7315GR_5M_eQh4rMVYfMMcTMTeR-g&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af2_xHFkVC_MOdWWB_H4nzmSaHcgMt-EOMX7jmgWsEpZvg&oe=69F1152F",
+          "watermarkedResizedImageUrl": ""
+        },
+        {
+          "body": "Keys to cash, and phone to 'pods - our everyday accessories are here to keep your pockets slim, and day running smoothly.",
+          "ctaType": "SHOP_NOW",
+          "caption": "",
+          "linkDescription": "Bellroy Flip Case",
+          "linkUrl": "https://bellroy.com/products/flip-case?color=terracotta&material=leather",
+          "title": "The secret to slim",
+          "ctaText": "Shop Now",
+          "videoHdUrl": null,
+          "videoPreviewImageUrl": null,
+          "videoSdUrl": null,
+          "watermarkedVideoHdUrl": null,
+          "watermarkedVideoSdUrl": null,
+          "imageCrops": [],
+          "originalImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/448018143_476079624972988_7126944018243842463_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DhX2Yv2fQAcQ7kNvwE0NPlb&_nc_oc=AdrZcpf6yh1-8BmIIdPJU7IDpNSS2rVdUjprP6n1WmCsRxzoHtIx0hTMlEwmLedRQy4&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af0M0axP0hsidYyaWPW3oKxwUT_coNy6-by3pTFJSVvWWw&oe=69F1020F",
+          "resizedImageUrl": "https://scontent.fric1-2.fna.fbcdn.net/v/t39.35426-6/448017494_477222964754809_1580278270942020777_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0jRLTQ6T91EQ7kNvwGS865T&_nc_oc=Adoyo9S-x41g144FNgEwsK3yQGOaS4LEJc0MiYPuYzx2KpQnnFoIzxgRzt6fDfm6Cn8&_nc_zt=14&_nc_ht=scontent.fric1-2.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af3rUJygPUJtIjVgfgcWOqTTlqoh2j9uY6ZWqhTIgKybpA&oe=69F126C0",
+          "watermarkedResizedImageUrl": ""
+        },
+        {
+          "body": "Keys to cash, and phone to 'pods - our everyday accessories are here to keep your pockets slim, and day running smoothly.",
+          "ctaType": "SHOP_NOW",
+          "caption": "",
+          "linkDescription": "Bellroy Flip Case",
+          "linkUrl": "https://bellroy.com/products/flip-case?color=terracotta&material=leather",
+          "title": "The secret to slim",
+          "ctaText": "Shop Now",
+          "videoHdUrl": null,
+          "videoPreviewImageUrl": null,
+          "videoSdUrl": null,
+          "watermarkedVideoHdUrl": null,
+          "watermarkedVideoSdUrl": null,
+          "imageCrops": [],
+          "originalImageUrl": "https://scontent.fric1-2.fna.fbcdn.net/v/t39.35426-6/448016804_1686522345485667_5997097404520012673_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l2sM4j3CSUEQ7kNvwEoxSDs&_nc_oc=Adqi9Hje0g4H9lJrirn_vzyoOB17_QGd27OGVfhzoBZt6gAIXh_if5xtGN6EKJ_4l24&_nc_zt=14&_nc_ht=scontent.fric1-2.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af06vztXXPB-B9rFHlAq2cXEsgZ_6Uxi6unx_AAv3nb50A&oe=69F111E9",
+          "resizedImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/448188572_325134674021128_7675487030760301794_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j3i4hSjahXEQ7kNvwG6ePsn&_nc_oc=Adr5hiagR0eppLjP3RfpUp_PDVDeVgGrRzF2_EbD5c_MiafsxAhPWJrZkXK5-zwrxVk&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af0Dv2WxVpCbxYVTDSx9tE3ZAprDg4IBiaCqjAc0vgZ_NQ&oe=69F12882",
+          "watermarkedResizedImageUrl": ""
+        },
+        {
+          "body": "Keys to cash, and phone to 'pods - our everyday accessories are here to keep your pockets slim, and day running smoothly.",
+          "ctaType": "SHOP_NOW",
+          "caption": "",
+          "linkDescription": "Bellroy Flip Case",
+          "linkUrl": "https://bellroy.com/products/flip-case?color=terracotta&material=leather",
+          "title": "The secret to slim",
+          "ctaText": "Shop Now",
+          "videoHdUrl": "https://video.fric1-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQMFIsMzTFGAOcATO9k5A0CDo9JvD6xIl3iIldKxlkrl8l216lCQiA7BeeqNC0AYaouw4ZqEJ-4nQeO4Ys4D_UXl.mp4?strext=1&_nc_cat=104&_nc_oc=AdqR_gXZa5fnL5wjp_mHioDsoJX63PRS_cqVxoR2P1Ptt2cJx4nl-H4gPSclO6DntlI&_nc_sid=8bf8fe&_nc_ht=video.fric1-2.fna.fbcdn.net&_nc_ohc=hFP9ApCfU68Q7kNvwHZ7foz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDQ4NzI4NDkzNzExNTE4LCJhc3NldF9hZ2VfZGF5cyI6ODMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&_nc_ss=72289&_nc_zt=28&oh=00_Af0D22jRdRbf_rRKciq9DJDIPQ0fSchcmQ7-cSwcnYSTOA&oe=69F12106",
+          "videoPreviewImageUrl": "https://scontent.fric1-2.fna.fbcdn.net/v/t39.35426-6/448027205_488268640338091_7162398942366512193_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ldb5PkfIxD8Q7kNvwEqBgcw&_nc_oc=AdrfPnR1QGxWYMkyTeEWVc7C9hXZF7_fYF8EQkqocJOJmSF8rHJiys-fzrnBv3qwyDc&_nc_zt=14&_nc_ht=scontent.fric1-2.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af3fzT6lvlWGmooWykf-bx1uxb_ZMYapIMl1erHFk6Zmng&oe=69F117A5",
+          "videoSdUrl": "https://video.fric1-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQMbLwRNPvuW8ST_395wBFa9rRU5E0VpC-AzeJzrockuAu8DPkuI6vvAQrHONR7-PonzXo5vMl-1XVG0rDTASVEW.mp4?strext=1&_nc_cat=109&_nc_oc=Adr4agriP86RSQdgmthTQ27kl4JTjhPAz-1NCqhE6gGO17uv2rfNitgjRI3YsDVurfw&_nc_sid=8bf8fe&_nc_ht=video.fric1-2.fna.fbcdn.net&_nc_ohc=t0eoRKa8J2EQ7kNvwHpkcl9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDQ4NzI4NDkzNzExNTE4LCJhc3NldF9hZ2VfZGF5cyI6ODMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&_nc_ss=72289&_nc_zt=28&oh=00_Af2OoqLl1Wk7LJ8HcIINdwBwIgK2hBivO3S7TzLm_ibpwQ&oe=69F13785",
+          "watermarkedVideoHdUrl": "",
+          "watermarkedVideoSdUrl": "",
+          "imageCrops": [],
+          "originalImageUrl": null,
+          "resizedImageUrl": null,
+          "watermarkedResizedImageUrl": null
+        },
+        {
+          "body": "Keys to cash, and phone to 'pods - our everyday accessories are here to keep your pockets slim, and day running smoothly.",
+          "ctaType": "SHOP_NOW",
+          "caption": "",
+          "linkDescription": "Bellroy Flip Case",
+          "linkUrl": "https://bellroy.com/products/flip-case?color=terracotta&material=leather",
+          "title": "The secret to slim",
+          "ctaText": "Shop Now",
+          "videoHdUrl": "https://video.fric1-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQPiv3bhqWzYlu0iTdTv3zsR8KTFhufoOCYKfOPgm4jIJTqrXAl-BUuwUUdNXwYaYwAdfSk5Xb1V5fiAjQPMvo9h.mp4?strext=1&_nc_cat=104&_nc_oc=Adrgkx14oGu_z-12bKPBE3m8ql-r8Fq0lYfit9_DDJR0k1BwmUiypndf60CLOMHp8yk&_nc_sid=8bf8fe&_nc_ht=video.fric1-2.fna.fbcdn.net&_nc_ohc=oLw6De1gt74Q7kNvwGcAEJd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5NDgwMDc1ODc1NTIwNjMsImFzc2V0X2FnZV9kYXlzIjo4MywidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&_nc_ss=72289&_nc_zt=28&oh=00_Af1UbVvJsWZwzAgLY1fiJcUi5iSWQ694Jtw5Mgv1-WOIow&oe=69F1342E",
+          "videoPreviewImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/448156904_810947960686702_7987253348797004577_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y8l-ub6DY3YQ7kNvwGreSGe&_nc_oc=AdpzE1-OJlQ94hDlpH5MU0ORBHKVJnUkHMHeM8EBqcjO4ZXY2dRt3H8jr1mwrprgIxY&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af0ex8A-g6fwX4lIrV858YaE64gs9wexXDMn8cV0DIe_QQ&oe=69F120CA",
+          "videoSdUrl": "https://video.fric1-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQPs__nAc2A8A6AdOGQ7ThSVnpPuE0ePrnFB1FduualmhIo7x3e1R5OZLe0ruBHLnNVoZYv9hQ5q4xu4EwlwaBJA.mp4?strext=1&_nc_cat=103&_nc_oc=AdqUiehJAUnyfeGDtaJejiXz0dl8bdIEP0mryg48yGweBt0LnIy3KPQdcBxb1DN7EdE&_nc_sid=8bf8fe&_nc_ht=video.fric1-2.fna.fbcdn.net&_nc_ohc=ZmN_hbWAdXQQ7kNvwFU3pJ3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5NDgwMDc1ODc1NTIwNjMsImFzc2V0X2FnZV9kYXlzIjo4MywidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&_nc_ss=72289&_nc_zt=28&oh=00_Af0phmmL1_VM0zZA4QFF_B-xRvSoiAb0vFENS4_Kftkmlg&oe=69F11E6B",
+          "watermarkedVideoHdUrl": "",
+          "watermarkedVideoSdUrl": "",
+          "imageCrops": [],
+          "originalImageUrl": null,
+          "resizedImageUrl": null,
+          "watermarkedResizedImageUrl": null
+        },
+        {
+          "body": "Keys to cash, and phone to 'pods - our everyday accessories are here to keep your pockets slim, and day running smoothly.",
+          "ctaType": "SHOP_NOW",
+          "caption": "",
+          "linkDescription": "Bellroy Flip Case",
+          "linkUrl": "https://bellroy.com/products/flip-case?color=terracotta&material=leather",
+          "title": "The secret to slim",
+          "ctaText": "Shop Now",
+          "videoHdUrl": null,
+          "videoPreviewImageUrl": null,
+          "videoSdUrl": null,
+          "watermarkedVideoHdUrl": null,
+          "watermarkedVideoSdUrl": null,
+          "imageCrops": [],
+          "originalImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/447870125_485303977494137_2630452150673652241_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hxAyou8cCVAQ7kNvwEToWTO&_nc_oc=AdrU8BBqcj0WCtYPyHsRZFJsnSD7BwR5mn1iFtaS8QJncQppEwLXg7XFJ5Gbu2LxTg4&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af3j58SCwMpFKQL1AttGg1FerMmlsH0Z95ptw2FDkhQG1g&oe=69F11BD2",
+          "resizedImageUrl": "https://scontent.fric1-1.fna.fbcdn.net/v/t39.35426-6/448157555_980926373297171_4321209890457312789_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O7kV_AyLX7kQ7kNvwGKmPm8&_nc_oc=AdoYLJj2DTs-g1hiU3g8gk4CwUTIDIX3rZGeE2ntAoyyMkqgGb2i6Z2dyZwmjGO66IM&_nc_zt=14&_nc_ht=scontent.fric1-1.fna&_nc_gid=NDPaptPeiD9yqWGzGIqUVw&oh=00_Af3sWs9NOX1gW5agD_WjPFzn7ob4ctVJPqD9yb6s4c3Cng&oe=69F11380",
+          "watermarkedResizedImageUrl": ""
+        }
+      ],
+      "body": {
+        "text": "{{product.brand}}"
+      },
+      "ctaType": "SHOP_NOW",
+      "displayFormat": "DCO",
+      "linkDescription": "{{product.description}}",
+      "linkUrl": "https://bellroy.com/products/flip-case?color=terracotta&material=leather",
+      "images": [],
+      "pageCategories": [
+        "Product/service"
+      ],
+      "pageLikeCount": 199147,
+      "title": "{{product.name}}",
+      "videos": [],
+      "isReshared": false,
+      "extraLinks": [],
+      "extraTexts": [],
+      "extraImages": [],
+      "extraVideos": [],
+      "countryIsoCode": null,
+      "brazilTaxId": null,
+      "additionalInfo": null,
+      "ecCertificates": []
+    },
+    "isActive": false,
+    "hasUserReported": false,
+    "reportCount": null,
+    "menuItems": [],
+    "stateMediaRunLabel": null,
+    "pageIsDeleted": false,
+    "pageName": "Bellroy",
+    "impressionsWithIndex": {
+      "impressionsText": null,
+      "impressionsIndex": -1
+    },
+    "gatedType": "ELIGIBLE",
+    "categories": [
+      "UNKNOWN"
+    ],
+    "isAaaEligible": true,
+    "containsDigitalCreatedMedia": false,
+    "reachEstimate": null,
+    "currency": "",
+    "spend": null,
+    "endDate": 1751353200,
+    "publisherPlatform": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "startDate": 1722150000,
+    "containsSensitiveContent": false,
+    "totalActiveTime": null,
+    "regionalRegulationData": {
+      "finserv": {
+        "isDeemedFinserv": false,
+        "isLimitedDelivery": false
+      },
+      "twAntiScam": {
+        "isLimitedDelivery": false
+      }
+    },
+    "hideDataStatus": "NONE",
+    "fevInfo": null,
+    "adId": null,
+    "targetedOrReachedCountries": []
+  }
+]
